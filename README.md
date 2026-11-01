@@ -260,16 +260,6 @@ The practical API examples explore important building blocks for Python backend 
 
 This repository is a **work in progress** and is intended for learning, experimentation, and interview preparation. Some notebooks contain exploratory code, some files are empty placeholders, and some APIs use mocked dependencies.
 
-Potential next improvements:
-
-- [ ] Add a root-level `.gitignore` for virtual environments, caches, checkpoints, and secrets
-- [ ] Consolidate notebook dependencies into a reproducible development environment
-- [ ] Add automated tests for key algorithms and API endpoints
-- [ ] Replace mock service clients with optional real integrations
-- [ ] Add linting, formatting, type checks, and CI
-- [ ] Document performance experiments for concurrency and async workloads
-- [ ] Separate finished examples from exploratory scratch work
-
 ## Author
 
 **Venkat Pachala**  
