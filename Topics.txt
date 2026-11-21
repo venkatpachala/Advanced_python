@@ -1,0 +1,37 @@
+Two Sum — one-pass hash map
+Contains Duplicate — set
+First Non-Repeating Character — dictionary
+Valid Anagram — Counter
+Group Anagrams — dictionary
+Top K Frequent Elements — Counter
+Product of Array Except Self — prefix/suffix
+Move Zeroes — two pointers
+
+enumerate() and zip()
+List, dict, and set comprehensions
+lambda with sorted(), map(), filter()
+Generator function using yield
+Decorator measuring execution time
+Custom exception + try/except
+Class with dataclass and methods
+Sorting records with multiple keys
+Async I/O using asyncio.gather()
+ThreadPoolExecutor for I/O work
+
+[ ]                                                     
+ProcessPoolExecutor for CPU work
+
+[ ]         
+GIL versus multiprocessing
+
+[ ] 
+Read and transform JSON/CSV data
+
+[ ] 
+Aggregate invoices by vendor
+
+[ ] 
+Implement bounded retry logic
+
+[ ] 
+Write unit tests for edge cases
